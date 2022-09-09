@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dumb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dumb_jar</output-path>
+    <root id="archive" name="Dumb.jar">
+      <element id="module-output" name="Dumb" />
+    </root>
+  </artifact>
+</component>
